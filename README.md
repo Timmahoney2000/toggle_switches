@@ -1,0 +1,1 @@
+simple toggle switches with some basic JS logic
